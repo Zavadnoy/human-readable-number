@@ -1,5 +1,4 @@
 module.exports = function toReadable (n) {
-//    function toReadable (n) {
     let arrDigitL = ['zero','one','two','three','four','five','six','seven','eight','nine'];
     let arrDigitM = ['ten','eleven','twelve','thirteen', 'fourteen', 'fifteen', 'sixteen','seventeen','eighteen','nineteen'];
     let arrDigitH = ['','ten','twenty','thirty','forty','fifty','sixty','seventy','eighty','ninety'];
